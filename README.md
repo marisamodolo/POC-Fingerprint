@@ -9,6 +9,7 @@ A biometria foi testada em Android e iOs com comportamento similar ao esperado, 
 `"url": "<seu ip>:3000"`
 - rodar `yarn`, `yarn build`, `yarn sync` e finalmente `yarn dev` para subir o servidor.
 - `yarn android`/`yarn ios` para abrir o AndroidStudio/XCode e emular o app a partir de lá.
+- Lembre-se de registar uma biometria no celular para seguir os fluxos ou não aparecerá os modais em Android.
 
 ### Android:
 - Em celulares com sensor biométrico e biometria cadastrada no aparelho.
