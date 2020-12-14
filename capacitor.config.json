@@ -11,7 +11,7 @@
   },
   "linuxAndroidStudioPath": "/usr/bin/android-studio",
   "server": {
-    "url": "http://192.168.0.237:3000",
+    "url": "<seu_ip>:3000",
     "cleartext": true
   },
   "cordova": {}
