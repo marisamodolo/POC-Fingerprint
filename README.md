@@ -1,6 +1,6 @@
 # POC Fingerprint Capacitor
 
-A biblioteca utilizada é para a leitura biometrica é [@ionic-native/fingerprint-aio](https://ionicframework.com/docs/native/fingerprint-aio).
+A biblioteca utilizada para a leitura biometrica é [@ionic-native/fingerprint-aio](https://ionicframework.com/docs/native/fingerprint-aio).
 
 Essa POC tem o objetivo de testar um comportamento nativo em um app com WebView utilizando Capacitor.
 A biometria foi testada em Android e iOs com comportamento similar ao esperado, exceto por em iOs não mostrar o modal de confirmação biométrica.
