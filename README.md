@@ -48,4 +48,4 @@ As funções utilizadas foram:
 - `FingerprintAIO.loadBiometricSecret()`
   valida a biometria e retorna o segredo.
 
-Vale reforçar que `register` e `load` não apareceram como modal em aparelhos iOs, mas salvou e carregou os segredos. Único que fez aparecer um modal foi o `FingerprintAIO.show()`, mas essa função não guarda e nem carrega segredo, servindo apenas de confirmação biométrica pra `true` ou `false`.
+Vale reforçar que `register` e `load` não apareceram como modal em aparelhos iOs, mas salvou e carregou os segredos. Único que fez aparecer um modal foi o `FingerprintAIO.show()`, mas essa função não guarda e nem carrega segredo, servindo apenas de confirmação biométrica.
